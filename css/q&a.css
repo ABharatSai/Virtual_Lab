@@ -8,7 +8,7 @@
 }
 
 body{
-  background: #D7423C;
+  background: #E9ECD0;
   box-sizing: border-box;
 }
 section{
@@ -27,7 +27,7 @@ input[name=question] + label{
     padding: 20px 20px;
     font-size: 1.2em;
     cursor: pointer;
-    background: rgba(0,0,0, 1);
+    background: rgba(246,246,246, 1);
     color: #5a9aa8;
     z-index: 2;
     box-shadow: 0 0 10px rgba(0,0,0,.1);
